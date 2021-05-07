@@ -38,7 +38,8 @@ namespace Pathmatics.Interview
             //"Thing" is admittedly generic, I'm sure there's an obviously better name
             foreach (string thing in ThingsLike(workingList, item))
             {
-                Console.WriteLine(string.Concat(item, ": ", thing));
+                //Below is for monitoring. Makes you feel like the program is working.
+                //Console.WriteLine(string.Concat(item, ": ", thing));
                 //adding independantly so we can...
                 duplicates[item].Add(thing);
                 //remove from the list and hopefully make things a bit faster and avoid duplication

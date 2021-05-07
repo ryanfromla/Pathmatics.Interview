@@ -13,4 +13,6 @@ If given more time, I'd refine the "Contains" statements into a more complete al
 Ideally, I would have made DuplicateFinder an implementation of IEnumerable on its own to avoid the clunky ThingsLike(List<string>, string) methods. 
 I'd prefer to have something like DuplicateFinder.ThingsLike(string);
 
+Finally, of course I'd add tests if I had the time. Tests can reveal edge cases and provide confidence when making changes. 
+
 All in all, I think this is relatively readable and maintainable and would be happy to bring this to a pair programming session.
