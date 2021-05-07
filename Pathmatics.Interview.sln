@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pathmatics.Interview", "Pathmatics.Interview\Pathmatics.Interview.csproj", "{3ACCF44B-91D5-4CAA-88AA-1A7E8ACB5752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ACCF44B-91D5-4CAA-88AA-1A7E8ACB5752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACCF44B-91D5-4CAA-88AA-1A7E8ACB5752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACCF44B-91D5-4CAA-88AA-1A7E8ACB5752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACCF44B-91D5-4CAA-88AA-1A7E8ACB5752}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E74382DD-6E0D-43D4-AC13-4ACAC849513F}
+	EndGlobalSection
+EndGlobal
